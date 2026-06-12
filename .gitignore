@@ -1,0 +1,20 @@
+# Build artifacts
+*.o
+*.so
+*.dylib
+*.dll
+*.exe
+encryption_rgr
+plugins/
+build/
+
+# Generated result files
+*_encrypted.txt
+*_decrypted.txt
+*.encrypted
+work/
+
+# Archives and OS/editor files
+outputs/
+.DS_Store
+*.zip
